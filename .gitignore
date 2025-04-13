@@ -1,0 +1,29 @@
+# Virtual environments
+dev/
+venv/
+.env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# macOS system files
+.DS_Store
+._*
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Test and coverage
+coverage/
+.cache
+*.cover
+*.py,cover
+nosetests.xml
+coverage.xml
+*.prof
